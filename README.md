@@ -11,6 +11,14 @@ This repository documents how to install and run **n8n** on a **Raspberry Pi 3B+
 
 ---
 
+## Quick install (one-liner)
+
+```bash
+curl -fsSL https://raw.githubusercontent.com/Coresptive/n8n-raspberry-pi-3bplus-setup/main/install_n8n_rpi3b.sh | sudo bash
+```
+
+## OR Step by Step
+
 # ⭐ 1. Prepare Raspberry Pi
 
 1. Flash **Raspberry Pi OS (Legacy) Lite – 32-bit** using Raspberry Pi Imager.
